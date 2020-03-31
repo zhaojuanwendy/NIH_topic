@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="551a4305-79fd-4ebc-a9c5-ac99d7c3ff10" name="lego" url="http://lego.accre.vanderbilt.edu">
+        <fileTransfer host="lego.accre.vanderbilt.edu" port="22" rootFolder="/legodata3/zhaoj" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
